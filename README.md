@@ -1,2 +1,2 @@
-# 2D-Java-game
+# 2D Java game
 A crappy 2D Java sandbox
