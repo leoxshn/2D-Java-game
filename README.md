@@ -1,4 +1,6 @@
 # 2D Java game
+![license](https://img.shields.io/github/license/leoxshn/UEFI-app)
+
 A crappy 2D Java sandbox
 
 This is far from an actually playable game. It's more of a template for anyone who wants to make a 2D sandbox.
