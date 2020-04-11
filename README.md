@@ -1,5 +1,5 @@
 # 2D Java game
-![license](https://img.shields.io/github/license/leoxshn/UEFI-app)
+![license](https://img.shields.io/github/license/leoxshn/2D-Java-game)
 
 A crappy 2D Java sandbox
 
